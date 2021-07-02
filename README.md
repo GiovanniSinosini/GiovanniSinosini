@@ -1,1 +1,2 @@
 # GiovanniSinosini
+![](images/gifProfile.gif)
