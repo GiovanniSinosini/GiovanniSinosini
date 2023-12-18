@@ -1,5 +1,7 @@
 [![](images/gifProfile.gif?link=https://github.com/GiovanniSinosini)](https://github.com/GiovanniSinosini)
-[![Linkedin: giovanni-sinosini](https://img.shields.io/badge/Linkedin-Giovanni-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-sinosini/)](https://www.linkedin.com/in/giovanni-sinosini/)       [![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=GiovanniSinosini.shields-io-visitor-counter&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=for-the-badge&link=https://github.com/GiovanniSinosini)](https://github.com/GiovanniSinosini)
+[![Linkedin: giovanni-sinosini](https://img.shields.io/badge/Linkedin-Giovanni-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-sinosini/)](https://www.linkedin.com/in/giovanni-sinosini/)       ![Profile Views](https://komarev.com/ghpvc/?username=GiovanniSinosini&style=for-the-badge&base=15400)
+
+
 
 # I'm a Husband, Father, Developer...
 
